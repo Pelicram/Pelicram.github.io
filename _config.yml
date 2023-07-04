@@ -10,12 +10,10 @@ email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Talking about Typewriters and related subjects.
 footer_text: >
-  Discord: pelicram
-  Typewriter Database: [https://typewriterdatabase.com/typewriters.php?hunter_search=6727](Pelicram)
 keywords: typewriter, typewriters, typecast  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: assets/img/mami.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://pelicram.github.io # the base hostname & protocol for your site
 baseurl: /The-Typewriter-Blog-You-Will-Eventually-Read/ # the subpath of your site, e.g. /blog/
@@ -62,15 +60,15 @@ max_width: 1000px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: assets/img/mami.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: Pelicram # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -102,7 +100,7 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
+discord_id: pelicram # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   
@@ -337,7 +335,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webp: "-resize 800x"
+    webp: 
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
