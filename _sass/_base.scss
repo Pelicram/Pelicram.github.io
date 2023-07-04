@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: Atkinson Hyperlegible;
 }
 
 hr {
@@ -115,7 +116,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 140%;
 
   .address {
     margin-bottom: 5px;
