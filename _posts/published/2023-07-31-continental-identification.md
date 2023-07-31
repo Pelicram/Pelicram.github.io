@@ -6,7 +6,7 @@ giscus_comments: true
 date: 2023-07-31
 featured: false
 categories: Typewriters
-tags: continental guides
+tags: continental guide
 thumbnail: assets/img/contithumb2.png
 published: true
 
@@ -39,6 +39,9 @@ _styles: >
 
 <sub>*Disclaimer: I'm an amateur hobbyist with a keen interest in typewriters and typewriter history but I have no formal training in proper research or academic writing. I will do my best but cannot guarantee that everything presented here as facts is actually true. The contents of this article are based on my personal observations and writings of other people. Most images are used without permission, if you own anything used here and would like it removed, please contact me. I've added sources where possible.*<sub>
 
+{% include figure.html path="assets/img/contithumb2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+
 I've been working on an article about the history and changes through the years concerning the Continental portables, this is a sort of spin-off topic that i decided to cover after i started my research. I saw many collectors, even seasoned veterans who were confused about which model their machine was. This guide a quick reference for that purpose, i'll go into more detail about the differences and features in the main article.
 
 Continental portable typewriters were made under several different model names, mostly varying in the amount of features. The 200 is an ultraportable machine that doesn't have much in common with the rest except for a few borrowed parts, all others fall under the same general family: 
@@ -69,8 +72,10 @@ By expanding the table below, you will find a comparison of the features of each
 
 Based on the findings above, I've created a flowchart to help you figure out which Continental model your machine may be. In most cases it is sufficient to look at the decals, but this procedure should help with those machines where they have been damaged.
 
-If you notice any mistakes in the guide or have new information, please let me know.
+If you notice any mistakes in the guide, feature table, or have new information, please let me know.
 
-<div class="l-page-outset">
- {% include figure.html path="assets/img/Klein-Continental Identification V1.0.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+---
+
+<div class="l-screen-inset">
+ {% include figure.html path="assets/img/Klein-Continental Identification V1.0.png" class="img-fluid rounded" zoomable=true %}
 </div>
