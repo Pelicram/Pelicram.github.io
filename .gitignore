@@ -20,3 +20,8 @@ vendor
 # Local History for Visual Studio Code
 .history/
 
+
+# Example and WIP posts
+_posts/examples
+_posts/wip
+_posts/templates

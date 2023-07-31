@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - Pelicram
+  
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Pelicram/Pehmis-Sofle-Case
+  - Pelicram/Rinkeli-Sweep-Case
+  - Pelicram/Hattara-Printable-Low-Profile-Keycaps
+  - Pelicram/Kismet-PRKL30-Case
+  

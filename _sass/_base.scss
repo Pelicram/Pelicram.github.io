@@ -17,7 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: Atkinson Hyperlegible;
+  font-family: Atkinson Hyperlegible, monospace;
 }
 
 hr {
@@ -387,7 +387,7 @@ footer.sticky-bottom {
 
 @media (min-width: 768px) {
   .repo {
-    max-width: 50%;
+    max-width: 80%;
   }
 }
 
