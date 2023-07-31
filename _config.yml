@@ -260,7 +260,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['history', 'guide', 'show-n-tell'] # these tags will be displayed on the front page of your blog
-display_categories: [] # these categories will be displayed on the front page of your blog
+display_categories: ['Typewriters'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

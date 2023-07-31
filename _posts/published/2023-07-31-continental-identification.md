@@ -5,6 +5,8 @@ description: Your guide to figuring out which model your Continental portable ty
 giscus_comments: true
 date: 2023-07-31
 featured: false
+categories: Typewriters
+tags: continental guides
 thumbnail: assets/img/contithumb2.png
 published: true
 

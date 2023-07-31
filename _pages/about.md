@@ -22,3 +22,5 @@ social: true  # includes social icons at the bottom of the page
 Howdy! My name is Otto and I'm a Typewriter Addict. This blog will be something of an outlet for me when I fall into different rabbit holes and find something I want to share with the Typosphere. 
 
 The site is currently a bit barebones, eventually I'll add pages about my typewriters, and various ephemera including ribbons tins, manuals, brochures etc.
+
+The name of the blog has been inspired by the famous advertizement slogans used by the Underwood Typewriter Company.
