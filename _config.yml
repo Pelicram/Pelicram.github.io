@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: The Typewriter Blog You Will Eventually Read # the website title (if blank, full name will be used instead)
+title: The Typewriter Blog<br>You Will Eventually Read # the website title (if blank, full name will be used instead)
 first_name: Otto
 middle_name: 
 last_name: Koponen
@@ -119,7 +119,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: The Typewriter Blog You Will Eventually Read # blog_name will be displayed in your blog page
+blog_name: The Typewriter Blog<br>You Will Eventually Read # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description:   Talking about Typewriters and related subjects.
 permalink: /blog/:year/:title/
@@ -322,7 +322,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800

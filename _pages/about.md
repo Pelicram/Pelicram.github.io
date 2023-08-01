@@ -6,7 +6,7 @@ subtitle: Talking about Typewriters and related subjects.
 
 profile:
   align: right
-  image: under16.jpg
+  # image: under16.jpg
   image_circular: false # crops the image to make it circular
  # address: >
    # <p>555 your office number</p>
@@ -23,4 +23,4 @@ Howdy! My name is Otto and I'm a Typewriter Addict. This blog will be something 
 
 The site is currently a bit barebones, eventually I'll add pages about my typewriters, and various ephemera including ribbons tins, manuals, brochures etc.
 
-The name of the blog has been inspired by the famous advertizement slogans used by the Underwood Typewriter Company.
+The name of the blog has been inspired by the famous advertizement slogans used by the Underwood Typewriter Company. - "The Machine You Will Eventually Buy."

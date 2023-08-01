@@ -41,10 +41,9 @@ _styles: >
 
 {% include figure.html path="assets/img/contithumb2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
+I've been working on an article about the history and changes through the years concerning the Continental portables, this is a sort of spin-off topic that I decided to cover after I started my research. I saw many collectors, even seasoned veterans who were confused about which model their machine was. This guide a quick reference for that purpose, I'll go into more detail about the differences and features in the main article.
 
-I've been working on an article about the history and changes through the years concerning the Continental portables, this is a sort of spin-off topic that i decided to cover after i started my research. I saw many collectors, even seasoned veterans who were confused about which model their machine was. This guide a quick reference for that purpose, i'll go into more detail about the differences and features in the main article.
-
-Continental portable typewriters were made under several different model names, mostly varying in the amount of features. The 200 is an ultraportable machine that doesn't have much in common with the rest except for a few borrowed parts, all others fall under the same general family: 
+Continental portable typewriters were made under several different model names, mostly varying in the amount of features. The 200 is an ultraportable machine that doesn't have much in common with the rest except for a few borrowed parts, all others fall under the same general family:
 
 - Klein-Continental - "Normal" Model
 - 34/35/50 - Ultra-Budget Model
