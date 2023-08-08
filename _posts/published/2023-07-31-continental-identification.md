@@ -14,7 +14,7 @@ authors:
   - name: Otto Koponen
  
 
-bibliography: sources.bib
+bibliography: conti-id.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -54,16 +54,23 @@ By expanding the table below, you will find a comparison of the features of each
 
 <div class="l-page-outset">
 {% details Expand Table %}
+
 | Model | Bichrome | Margin Release Lever | Paper Guide | Case Felt | Left Platen Knob | Margin Set Lever | Tabulator | Paper Support | Years Made |
 |---|---|---|---|---|---|---|---|---|---|
-| Klein | Yes | Yes | ~1933-> | Usually | ~1933-> | No | Sometimes | Usually | 1929-1947 |
-| 34 | No | No | No | No | No | No | No | No | 1933-1934 |
-| 35 | No | No | No | No | No | No | No | No | 1935-1937 |
-| 50 | No | No | No | No | No | No | No | No | 1937-1948 |
-| 340 | Sometimes | Sometimes | No | Sometimes | Sometimes | No | No | No | Unknown |
-| 350 | Sometimes | Sometimes | No | Sometimes | Sometimes | No | No | No | Unknown |
+| Klein | Yes | Yes<sup>1</sup> | ~1933-> | Usually | ~1933-> | No | Sometimes | Usually | 1929-1947 |
+| 34 | No | No<sup>2</sup> | No | No | No | No | No | No | 1933-1934 |
+| 35 | No | No<sup>2</sup> | No | No | No | No | No | No | 1935-1937 |
+| 50 | No | No<sup>2</sup> | No | No | No | No | No | No | 1937-1948 |
+| 340 | Sometimes<sup>3</sup> | Sometimes<sup>3</sup> | No | Sometimes<sup>3</sup> | Sometimes<sup>3</sup> | No | No | No | Unknown |
+| 350 | Sometimes<sup>3</sup> | Sometimes<sup>3</sup> | No | Sometimes<sup>3</sup> | Sometimes<sup>3</sup> | No | No | No | Unknown |
 | 100 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | 1938-194X |
 | 200 | No | Key | No | No | Yes | No | No | Yes | 1939/1940-~1943 |
+
+<sup>1</sup> The Margin Release Lever on 1st and 2nd Generation models is a little tab on the left side of the paper table instead of a lever on the end of the carriage.
+
+<sup>2</sup> On models 34, 35, and 50 the margin release is operated by a handle on the margin stop instead of a lever connected to it. This is much harder to reach but did save on parts.
+
+<sup>3</sup> Models 340 and 350 were available with varying levels of features, sometimes even matching the Ultra-Budget models.
 {% enddetails %}
 </div>
 
