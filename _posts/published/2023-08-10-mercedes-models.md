@@ -5,6 +5,8 @@ description: Comparing the features between the Mercedes Prima (K41), Superba (K
 giscus_comments: true
 date: 2023-08-10
 featured: false
+categories: Typewriters
+tags: guide
 thumbnail: assets/img/mercedesthumb.png
 
 authors:
