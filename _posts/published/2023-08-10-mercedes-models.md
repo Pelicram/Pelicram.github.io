@@ -6,7 +6,7 @@ giscus_comments: true
 date: 2023-08-10
 featured: false
 categories: Typewriters
-tags: guide
+tags: mercedes guide
 thumbnail: assets/img/mercedesthumb.png
 
 authors:

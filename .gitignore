@@ -25,3 +25,6 @@ vendor
 _posts/examples
 _posts/wip
 _posts/templates
+
+# Google Drive files
+.tmp.driveupload/
