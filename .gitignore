@@ -28,3 +28,7 @@ _posts/templates
 
 # Google Drive files
 .tmp.driveupload/
+
+# pdfs
+
+assets/pdf
