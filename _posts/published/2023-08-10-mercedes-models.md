@@ -46,7 +46,7 @@ This is just a quick post to make available some information that I came across 
 For more information about Mercedes Typewriters, read this article by Robert Messenger: [Mercedes Typewriters](https://oztypewriter.blogspot.com/2012/02/mercedes-typewriters.html)
 
 
-[Link to the brochure in PDF form.](https://pelicram.github.io/The-Typewriter-Blog-You-Will-Eventually-Read/assets/pdf/Mercedes%20K41%20Prima%20Brochure%20(Finnish)_Compress.pdf)
+[Link to the brochure on the Internet Archive.](https://archive.org/details/mercedes-k-41-prima-brochure-finnish_202311)
 
 ## Features
 
